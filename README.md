@@ -28,4 +28,4 @@ beginner java backend developer
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
