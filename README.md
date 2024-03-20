@@ -2,15 +2,7 @@
 
 ## Android Developer from Russia
 
-### Connect with me:
-<p align="center">
-  <a href="https://t.me/+OoI8UWDVVm0yMDNi">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
-  </a>
-  <a href="mailto:ваш_email@mail.ru">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+
 
 ---
 
