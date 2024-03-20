@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Вадим]
 
-## Android Developer from Russia
+## Java backend Developer from Russia
 
 
 
