@@ -29,3 +29,4 @@
   </a>  
 </p>
 
+ ![Codewars](https://www.codewars.com/users/cybersnuff/badges/large)
