@@ -29,11 +29,3 @@
   </a>  
 </p>
 
-
-![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=ваш_username&theme=react-dark)
-
----
-
-<h2 align="left">Wakatime Stats</h2>
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ваш_username&layout=compact&theme=dark)
