@@ -1,7 +1,8 @@
-<h1 align="center">Hi there! 👋 I'm [Вадим]</h1>
-<h2 align="center">Android Developer from Russia</h2>
+# Hi there 👋, I'm [Вадим]
 
-<h2 align="center">Connect with me:</h2>
+## Android Developer from Russia
+
+### Connect with me:
 <p align="center">
   <a href="https://t.me/+OoI8UWDVVm0yMDNi">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
@@ -13,13 +14,7 @@
 
 ---
 
-
 - 🌱 I’m currently learning **Java, +**
-
-
-
-
-
 
 ---
 
